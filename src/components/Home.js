@@ -1,7 +1,5 @@
 import React from "react";
 import ShreeRam from "../assets/ShreeRam R.K.B.png";
-import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import { Link } from "react-scroll";
 
 const Home = () => {
     return (
