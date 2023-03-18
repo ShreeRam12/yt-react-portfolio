@@ -12,17 +12,8 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/shreeram-k-1a3598189/",
+      href: "https://www.linkedin.com/in/shreeram-rkb-1a3598189/",
       style: "rounded-tr-md",
-    },
-    {
-      id: 2,
-      child: (
-        <>
-          Facebook <FaFacebook size={30} />
-        </>
-      ),
-      href: "https://www.facebook.com/profile.php?id=100018621300755",
     },
     {
         id: 3,
@@ -40,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:shreeramshree109@gmail.com",
+      href: "https://mail.google.com/mail/u/0/#inbox",
     },
     {
       id: 5,
